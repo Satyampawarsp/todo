@@ -1,0 +1,7 @@
+/* Custom Checkbox Styling */
+.custom-checkbox {
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  font-size: 18px; /* Adjust font size to fit well inside the checkbox */
+}
